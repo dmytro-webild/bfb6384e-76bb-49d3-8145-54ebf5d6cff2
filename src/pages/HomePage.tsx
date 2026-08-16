@@ -40,7 +40,7 @@ export default function HomePage() {
           icon: Flame,
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/two-young-beautiful-girls-smiling-speaking-resting-cafe-shot-from-outside_176420-6932.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/two-young-beautiful-girls-smiling-speaking-resting-cafe-shot-from-outside_176420-6932.jpg?_wi=1"
       textAnimation="slide-up"
     />
     </SectionErrorBoundary>
@@ -171,7 +171,7 @@ export default function HomePage() {
               imageSrc: "http://img.b2bpic.net/free-photo/attractive-young-woman-with-charming-smile-feeling-happy-free-after-graduating-university-relaxing-cafe-waiting-food-making-plans-future-ginger-woman-having-rest-indoors_273609-481.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/two-young-beautiful-girls-smiling-speaking-resting-cafe-shot-from-outside_176420-6932.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/two-young-beautiful-girls-smiling-speaking-resting-cafe-shot-from-outside_176420-6932.jpg?_wi=2",
           imageAlt: "smiling indian woman portrait",
         },
       ]}
